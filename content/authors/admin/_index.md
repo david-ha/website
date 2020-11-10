@@ -1,5 +1,6 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Hello world. I am trying blogdown for the first time.
+
 education:
   courses:
   - course: PhD in Artificial Intelligence
