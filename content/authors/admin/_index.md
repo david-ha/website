@@ -40,7 +40,7 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/
 superuser: true
-title: Nelson Bighetti
+title: David Hammerschmidt
 user_groups:
 - Principal Investigators
 ---
