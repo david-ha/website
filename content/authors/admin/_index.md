@@ -3,35 +3,36 @@ bio: Hello world. I am trying blogdown for the first time.
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Systematic Musicology
+    institution: University of Hamburg, Germany
+    year: current
+  - course: M.A. in Systematic Musicology
+    institution: University of Hamburg, Germany
+    year: 2017
+  - course: B.A. in Systematic Musicology
+    institution: University of Hamburg, Germany
     year: 2008
 email: ""
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Data science
+- Statistics
+- Psychology 
+- Eye Tracking
 organizations:
-- name: Stanford University
+- name: University of Hamburg
   url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+role: Research Associate
 social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
-- icon: twitter
+- icon: researchgate
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://www.researchgate.net/profile/David_Hammerschmidt3
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=jEyTlMwAAAAJ&hl=en&citsig=AMD79opbncrQxdfpVUXlUMEiwJSLYjStXQ
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
