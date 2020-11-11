@@ -25,22 +25,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   You can begin a multiline `description` using YAML's `|-`.
 experience:
-- company: GenCoin
+- company: University of Hamburg
   company_url: ""
   date_end: ""
-  date_start: "2017-01-01"
-  description: |-
-    Responsibilities include:
-    * Analysing
-    * Modelling
-    * Deploying
-  location: California
-  title: CEO
-- company: University X
+  date_start: "2017-04-01"
+  description: 'Reseach project funded by the European Research Council called "Slow Motion: Transformations of Musical Time in Perception and Performance (SloMo)"'
+  location: Institute for Systematic Musicology
+  title: Research Associate
+- company: University of Hamburg
   company_url: ""
-  date_end: "2016-12-31"
-  date_start: "2016-01-01"
-  description: Taught electronic engineering and researched semiconductor physics.
-  location: California
-  title: Professor
+  date_end: "2020-03-31"
+  date_start: "2019-10-01"
+  description: 'Course title: Rhythm / Groove / Flow - Musical experiences of time'
+  location: Institute for Systematic Musicology
+  title: Lecturer
 ---
